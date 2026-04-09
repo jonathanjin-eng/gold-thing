@@ -1,2 +1,4 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,gold-sheet-metal,0.5101472035949499,0.21151255639335134,4,,Is there a hole?,Yes.,,,,,,,,
+2,gold-sheet-metal,0.5196014263838108,0.5140643704971714,0.8999999999999999,,Shiny?,Nice.,,,,,,,,
